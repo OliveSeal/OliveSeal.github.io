@@ -1,0 +1,538 @@
+[
+    {
+        "Organization": "Redhammer",
+        "Name": "Kapkan",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Entry Denial Device"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Tachanka",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Shumika Launcher"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Glaz",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Flip Sight"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Fuze",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Cluster Charge"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "IQ",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Electronics Detector"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Blitz",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Flash Shield"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Bandit",
+        "Role": "Defender",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Shock Wire"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Jäger",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Active Defense System"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Rook",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Armor Pack"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Doc",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Stim Pistol"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Twitch",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Shock Drones"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Montagne",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Le Roc Shield"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Thermite",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Exothermic Charge"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Pulse",
+        "Role": "Defender",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Heartbeat Sensor"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Castle",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Armor Panel"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Ash",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Breaching Rounds"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Thatcher",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "EMP Grenade"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Smoke",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Remote Gas Grenade"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Sledge",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Tactical Hammer"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Mute",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Signal Disruptor"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Frost",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Welcome Mat"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Buck",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Skeleton Key"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Valkyrie",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Black Eye"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Blackbeard",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Rifle Shield"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Capitão",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Tactical Crossbow"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Caveria",
+        "Role": "Defender",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Silent Step"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Echo",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Yokai"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Hibana",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "X-Kairos"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Jackal",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Eyenox Model III"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Mira",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Black Mirror"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Lesion",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Gu Mines"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Ying",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Candela"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Ela",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Grzmot Mines"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Zofia",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "KS79 Lifeline"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Dokkaebi",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Logic Bomb"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Vigil",
+        "Role": "Defender",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "ERC-7"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Finka",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Adrenal Surge"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Lion",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "EE-ONE-D"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Alibi",
+        "Role": "Defender",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Prisma"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Maestro",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Evil Eye"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Maverick",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Breaching Torch"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Clash",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "CCE Shield"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Kaid",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "RTILA Electroclaw"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Nomad",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Airjab Launcher"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Gridlock",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Trax Stingers"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Mozzie",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Pest Launcher"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Warden",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Glance Smart Glasses"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Nøkk",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Hel Presence Reduction"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Goyo",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Volcán Canister"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Amaru",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Garra Hook"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Kali",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "LV Explosive Lance"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Wamai",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Mag-Net System"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Iana",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Gemini Replicator"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Oryx",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Remah Dash"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Melusi",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Banshee Sonic Defense"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Ace",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "S.E.L.M.A Aqua Breacher"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Zero",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Argus Launcher"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Aruni",
+        "Role": "Defender",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Surya Gate"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Flores",
+        "Role": "Attacker",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "RCE-Ratero Charge"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Thunderbird",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Kóna Station"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Osa",
+        "Role": "Attacker",
+        "Health": "3",
+        "Speed": "1",
+        "UniqueAbilities": "Talon-8 Clear Shield"
+    },
+    {
+        "Organization": "Redhammer",
+        "Name": "Thorn",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Razerbloom Shell"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Azami",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Kiba Barrier"
+    },
+    {
+        "Organization": "Wolfguard",
+        "Name": "Sens",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "R.O.U Project System"
+    },
+    {
+        "Organization": "Nighthaven",
+        "Name": "Grim",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Kawan Hive Launcher"
+    },
+    {
+        "Organization": "Ghosteyes",
+        "Name": "Solis",
+        "Role": "Defender",
+        "Health": "2",
+        "Speed": "2",
+        "UniqueAbilities": "Spec-IO Electro-Sensor"
+    },
+    {
+        "Organization": "Viperstrike",
+        "Name": "Brava",
+        "Role": "Attacker",
+        "Health": "1",
+        "Speed": "3",
+        "UniqueAbilities": "Kludge Drone"
+    }
+]

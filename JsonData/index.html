@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="css.css">
+  <title>JSON Data</title>
+</head>
+<body>
+
+  <h1>Rainbow Six Siege</h1>
+  <h2>All operators organization, health, speed and gadget</h2>
+
+  <table id="json-table">
+    <thead>
+      <tr>
+        <th>Organization</th>
+        <th>Name</th>
+        <th>Role</th>
+        <th>Health</th>
+        <th>Speed</th>
+        <th>Unique Abilities</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+
+  <script>
+    fetch('database.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log(data);
+        var table = document.getElementById("json-table");
+
+        for (var i = 0; i < data.length; i++) {
+          var row = table.insertRow();
+
+          var orgCell = row.insertCell();
+          orgCell.innerHTML = data[i].Organization;
+
+          var nameCell = row.insertCell();
+          nameCell.innerHTML = data[i].Name;
+
+          var roleCell = row.insertCell();
+          roleCell.innerHTML = data[i].Role;
+
+          var healthCell = row.insertCell();
+          healthCell.innerHTML = data[i].Health;
+
+          var speedCell = row.insertCell();
+          speedCell.innerHTML = data[i].Speed;
+
+          var abilitiesCell = row.insertCell();
+          abilitiesCell.innerHTML = data[i].UniqueAbilities;
+    
+        }
+      });
+  </script>
+
+</body>
+</html>
