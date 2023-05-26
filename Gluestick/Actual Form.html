@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Nettbutikk.css">
+    <title>Kontakt</title>
+
+</head>
+<body>
+
+    <div class="topnav">
+        <a href="nettbutikk.html">Home</a>
+        <a href="Butikk.html">Store</a>
+        <a href="Electronics.html">Electronics</a>
+        <a class="active" href="TheForm.html">Contact</a>
+        <a href="About.html">About</a>
+      </div>
+
+      <form onsubmit="myFunction()">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" required><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" required><br>
+        <label for="message">Message/Complaint:</label><br>
+        <input type="text" id="message" name="message" value="" required><br>
+        <input type="submit" value="Submit">
+      </form>
+
+      <h2><img src="RAT.gif" alt="Nom" height="400"></h2>
+
+      <script>
+        function myFunction() {
+          alert("Your message has been delivered :)");
+        }
+        </script>
+
+    <div class="footer">
+        <p>Gluestick Explosives Inc.</p>
+        <p>Email: <a href = "mailto: oliverselle68@gmail.com">oliverselle68@gmail.com</a></p>
+        <p>Adress: Børnesveien 4, 9763 Skarsvåg</p>
+        </div>
+</body>
+</html>
